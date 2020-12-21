@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="feiyuejiao@172.16.75.80:22 key">
+    <serverData>
+      <paths name="feiyuejiao@172.16.75.80:22 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/workspace/NLP_Pretrain" local="$PROJECT_DIR$/../NLP_Pretrain" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="feiyuejiao@172.16.75.80:22 key (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public/home/yuchangbingroup/feiyuejiao/workspace/NLP_Pretrain" local="$PROJECT_DIR$/../NLP_Pretrain" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
